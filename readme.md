@@ -1,6 +1,6 @@
 # Nurse Care Activity Recognition Challenge 2020
 
-This code is used as a submission to the [2nd Nurse Care Activity Recognition Challenge 2020](https://abc-research.github.io/nurse2020/)
+This project is used as a submission to the [2nd Nurse Care Activity Recognition Challenge 2020](https://abc-research.github.io/nurse2020/)
 Our team achieved the second place in this competition.
 
 Team Name: Team Apophis
