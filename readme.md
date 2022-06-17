@@ -3,6 +3,10 @@
 This project is used as a submission to the [2nd Nurse Care Activity Recognition Challenge 2020](https://abc-research.github.io/nurse2020/)
 Our team achieved the second place in this competition.
 
+The data for this repository can be found at [IEEE Dataport](https://ieee-dataport.org/open-access/nurse-care-activities-datasets-laboratory-and-real-field).
+
+
+
 Team Name: Team Apophis
 
 Team Members:
